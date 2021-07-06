@@ -24,7 +24,7 @@
 | created_at(ISO8601) | id(string) | type(string) | value(float) |
 | ---- | ---- | ---- | ---- |
 | 2014-10-10T13:50:40 | living_room	| CO2 | 400.5 | 
-| 2014-10-10T13:50:50 | living_room	| TEMP | 20.0 |
+| 2014-10-10T13:50:50 | dining	| TEMP | 20.0 |
 | ... | | | |
 
 - IDは設置位置を表すものとした．
