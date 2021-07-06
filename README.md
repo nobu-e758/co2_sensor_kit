@@ -16,7 +16,6 @@
 | Raspberry Pi 3B+  |  5,775  | https://www.switch-science.com/catalog/3850/ |
 | M5 ATOM Lite| 1,287 | https://www.switch-science.com/catalog/6262/ |
 | TVOC/eCO2 sensor unit | 1,562 | https://www.switch-science.com/catalog/6619/ |
- | | |
 
 ## Codes
 
@@ -27,8 +26,6 @@
 | 2014-10-10T13:50:40 | living_room	| CO2 | 400.5 | 
 | 2014-10-10T13:50:50 | living_room	| TEMP | 20.0 |
 | ... | | | |
-|  | | | |
-
 
 - IDは設置位置を表すものとした．
 - 1エッジが複数センサを持つ場合もある想定．
@@ -41,11 +38,11 @@
 
 ### Node-RED flow
 
-[./node-red_flow.json]()
+[./node-red_flow.json](./node-red_flow.json)
 
 ### M5 Lite code
 
-[./m5_flow.png]()
+[./m5_flow.png](./m5_flow.png)
 
 ---
 
