@@ -1,4 +1,4 @@
-# Handmaid CO2 sensor kit
+# Self-made CO2 sensor kit
 
 ![](./images/overview.jpg)
 
